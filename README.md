@@ -1,0 +1,32 @@
+## 👋 Hey there, I'm Tim!
+
+🎓 Student • 💻 Ethical Hacker
+
+I'm currently diving into:
+- 🔐 Offensive Security, Red Teaming & Pentesting
+- 🧩 Self-hosted tools
+
+I love Docker
+
+---
+
+## 🧰 Skills
+
+![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?logo=css3)
+![Docker](https://img.shields.io/badge/-Docker-333?logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333?logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-333?logo=gnu-bash)
+
+---
+
+## 📊 GitHub Stats
+
+![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimBoBN&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimBoBN&layout=compact&theme=github_dark)
+
+---
+
