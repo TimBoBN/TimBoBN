@@ -1,12 +1,15 @@
-## 👋 Hey there, I'm Tim!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=Hey+there%2C+I'm+Tim!" alt="Typing SVG" />
+</p>
 
+---
 🎓 Student • 💻 Ethical Hacker
 
 I'm currently diving into:
-- 🔐 Offensive Security, Red Teaming & Pentesting
+- 🔐 Offensive Security, Red Teaming & Pentesting  
 - 🧩 Self-hosted tools
 
-I love Docker
+I love Docker 🐳
 
 ---
 
@@ -29,4 +32,3 @@ I love Docker
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimBoBN&layout=compact&theme=github_dark)
 
 ---
-
