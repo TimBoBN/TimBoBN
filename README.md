@@ -23,10 +23,6 @@ I love Docker 🐳
 ![Docker](https://img.shields.io/badge/-Docker-333?logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-333?logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-333?logo=gnu-bash)
-![Wireshark](https://img.shields.io/badge/-Wireshark-333?logo=wireshark)
-![Nmap](https://img.shields.io/badge/-Nmap-333?logo=nmap)
-![Metasploit](https://img.shields.io/badge/-Metasploit-333?logo=metasploit)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333?logo=burpsuite)
 
 ---
 
