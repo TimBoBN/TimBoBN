@@ -3,7 +3,7 @@
 </p>
 
 ---
-🎓 Student • 💻 Ethical Hacker
+🎓 Student • 💻 Aspiring Security Researcher • 🐧 Linux & 🐍 Python Enthusiast 
 
 I'm currently diving into:
 - 🔐 Offensive Security, Red Teaming & Pentesting  
