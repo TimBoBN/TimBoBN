@@ -30,7 +30,7 @@ I love Docker 🐳
 
 ## 📊 GitHub Stats
 
-![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimBoBN&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimBoBN&layout=compact&theme=github_dark)
+![Tim's GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ---
