@@ -3,7 +3,7 @@
 </p>
 
 ---
-🎓 Student • 💻 Aspiring Security Researcher • 🐧 Linux & 🐍 Python Enthusiast 
+🎓 Student • 💻 Aspiring Security Researcher • 🐧 Linux • 🐍 Python Enthusiast 
 
 ### *I like breaking things. And building the tools to break them better.*
 
